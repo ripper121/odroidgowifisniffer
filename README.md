@@ -1,9 +1,14 @@
 # odroidgowifisniffer
 Odroid Go Wifi Sniffer PCAP
+
 Start capturing with A
+
 Stop capturing with B
+
 The screen shows at the moment only Probe Request Packets.
+
 Each 60 Seconds a new Capture PCAP file is created.
+
 
 
 Example Video to read the PCAP files with Wireshark.
